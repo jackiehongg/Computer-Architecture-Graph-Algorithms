@@ -1,0 +1,6 @@
+D G H
+B D G
+2
+B D G H I
+A C E H J
+3

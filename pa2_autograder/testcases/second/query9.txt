@@ -1,0 +1,5 @@
+a BT
+i AO
+o BE
+a BU
+i BO

@@ -1,0 +1,18 @@
+B D E F G H K T U W X
+7
+11
+12
+C D G J M N O P Q S T Y
+13
+10
+17
+A C D J K N P T W X
+B C D E G H K L O Q R V Y
+9
+A C D F J L M P T Y
+9
+D F G O P Q R U W X
+9
+B D H Q T V W
+B C D F I J O P Q S U V Y
+14

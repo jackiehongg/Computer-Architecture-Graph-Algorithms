@@ -1,0 +1,6 @@
+A E F H M S
+B G H K
+E I J P S T
+6
+6
+3

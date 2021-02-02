@@ -1,0 +1,13 @@
+
+A INF
+B INF
+C 0
+D 6961
+E 3944
+
+A INF
+B INF
+C INF
+D INF
+E 0
+
