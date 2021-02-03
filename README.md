@@ -3,6 +3,7 @@
 - Programming assignment 2 for Computer Architecture Fall 2020.
 - Exact assignment details found in a pdf within pa2 folder.
 - Earned 130/150 points.
+- Autograder omitted.
 
 ### Skills Learned
 - C programming
